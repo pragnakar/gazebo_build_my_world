@@ -1,4 +1,4 @@
-# Install script for directory: /home/workspace/project1
+# Install script for directory: /home/workspace/gazebo_build_my_world
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/workspace/project1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/workspace/gazebo_build_my_world/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/workspace/project1/script/hello.cpp
+/home/workspace/gazebo_build_my_world/script/hello.cpp
 gazebo/gazebo.hh
 -
 
